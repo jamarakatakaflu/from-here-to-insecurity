@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "From Here To Insecurity"
+theme = "minimal"
+author = "Ash Virex"
+
+[params]
+  tagline = "...And Out Come The Exploits"
