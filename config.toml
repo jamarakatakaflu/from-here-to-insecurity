@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "From Here To Insecurity"
-theme = "minimal"
+theme = "ananke"
 author = "Ash Virex"
 
 [params]
