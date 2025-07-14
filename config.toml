@@ -6,3 +6,10 @@ author = "Ash Virex"
 
 [params]
   tagline = "...And Out Come The Exploits"
+  
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.148.1"
